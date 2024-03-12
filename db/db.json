@@ -1,0 +1,979 @@
+{
+  "user": [
+    {
+      "username": "Rasool",
+      "email": "rasoolhosseini@gmail.com",
+      "password": "Plutnium007",
+      "address": "hosseini",
+      "city": "",
+      "state": "",
+      "firstname": "seyed",
+      "lastname": "rasool",
+      "zip": "12321-11212",
+      "photoSrc": "",
+      "id": "68a4567c-319e-43ee-ac47-2cb752d952b6"
+    },
+    {
+      "id": "8d85cb00-edcb-48a4-a5bd-8dccc796d9b4",
+      "username": "hasan Alai",
+      "email": "Swt@gmail.com",
+      "password": "RasoolHosseini00",
+      "address": "",
+      "city": "",
+      "zip": "",
+      "photoSrc": "",
+      "state": "",
+      "firstname": "",
+      "lastname": "",
+      "timestamp": "2024-02-12T19:28:27.807Z"
+    },
+    {
+      "username": "asaoja",
+      "email": "saskajsasas@gmail.com",
+      "password": "Plutnium007",
+      "address": "aas",
+      "city": "",
+      "state": "",
+      "firstname": "sssssssssss",
+      "lastname": "ssssssssssssssssss",
+      "zip": "sas",
+      "photoSrc": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+      "id": "40e3cd48-ee23-4200-a946-4de80a5527de"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Summer clothes",
+      "href": "#",
+      "current": false,
+      "img": "https://assets.adidas.com/images/w_940,f_auto,q_auto/84b21bf90032468aa6b9bffe1fd8711b_faec/IR8491_HM1.jpg",
+      "description": "Discover the epitome of effortless style with our collection of summer garments."
+    },
+    {
+      "id": "2",
+      "name": "Winter clothes",
+      "href": "#",
+      "current": false,
+      "img": "https://keyshop.ir/wp-content/uploads/2021/10/%D8%B3%D8%AA-%D8%B3%D9%88%DB%8C%DB%8C%D8%B4%D8%B1%D8%AA-%D8%B4%D9%84%D9%88%D8%A7%D8%B1-%D8%A2%D8%AF%DB%8C%D8%AF%D8%A7%D8%B3-1-2.jpg",
+      "description": "Discover the perfect balance of comfort and sophistication as you navigate the colder timestamps with our winter wardrobe essentials."
+    },
+    {
+      "id": "3",
+      "name": "Shoe",
+      "href": "#",
+      "current": false,
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/p/c/l/-original-imagg5q5yaaaagep.jpeg?q=20&crop=false",
+      "description": "Our collection of shoes is suitable for every taste and occasion."
+    },
+    {
+      "id": "4",
+      "name": "Hat",
+      "href": "#",
+      "current": false,
+      "img": "https://cdn.pinno.app/api/internal/cdb/contents/a74e938d-a105-4fbf-88ce-66300862e3ef/376606/177519",
+      "description": "In our collection, there are all kinds of hats for all genders."
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Shirt",
+      "timestamp": "2023-02-12T19:31:35.837Z",
+      "category_id": 3,
+      "price": 292,
+      "href": "/product",
+      "imgSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "score": 100,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": false
+        },
+        {
+          "name": "S",
+          "inStock": false
+        },
+        {
+          "name": "M",
+          "inStock": false
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Shirt allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "2",
+      "name": "Shoe",
+      "timestamp": "2024-01-12T19:20:35.837Z",
+      "category_id": 3,
+      "price": 12,
+      "href": "/product",
+      "imgSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg",
+      "score": 115,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white-900",
+          "selectedClass": "ring-white-900"
+        },
+        {
+          "name": "Blue",
+          "class": "bg-blue",
+          "selectedClass": "ring-blue"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        },
+        {
+          "name": "Black",
+          "class": "bg-black",
+          "selectedClass": "ring-black"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "2L",
+          "inStock": false
+        },
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "3",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2024-01-01T10:31:35.837Z",
+      "category_id": 2,
+      "price": 92,
+      "href": "/product",
+      "imgSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg",
+      "score": 100,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "4",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2022-02-12T19:31:35.837Z",
+      "category_id": 1,
+      "price": 102,
+      "href": "/product",
+      "imgSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg",
+      "score": 1,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "5",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2023-12-12T18:31:35.837Z",
+      "category_id": 1,
+      "price": 55,
+      "href": "/product",
+      "imgSrc": "https://image.spreadshirtmedia.com/image-server/v1/products/T210A1PA4301PT17X33Y53D1020040435W26599H26599/views/1,width=550,height=550,appearanceId=1,backgroundColor=F2F2F2,modelId=6287,crop=list/instagram-isnt-real-life-mens-t-shirt.jpg",
+      "score": 5,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "6",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2022-02-12T19:31:35.837Z",
+      "price": 85,
+      "href": "/product",
+      "imgSrc": "https://image.spreadshirtmedia.com/image-server/v1/products/T210A1PA4301PT17X23Y41D1018257564W28568H11427/views/1,width=550,height=550,appearanceId=1,backgroundColor=F2F2F2,modelId=6287,crop=list/bshert-mens-t-shirt.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "score": 8,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "7",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2019-02-12T19:31:35.837Z",
+      "category_id": 1,
+      "price": 84,
+      "href": "/product",
+      "imgSrc": "https://image.spreadshirtmedia.com/image-server/v1/products/T951A70PA4291PT17X0Y39D1029566784W24745H23012/views/1,width=550,height=550,appearanceId=70,backgroundColor=F2F2F2,modelId=6055,crop=list/t-shert-new-york-2020-unisex-baseball-t-shirt.jpg",
+      "score": 9,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    },
+    {
+      "id": "8",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2024-01-10T19:31:35.837Z",
+      "category_id": 1,
+      "price": 1,
+      "href": "/product",
+      "imgSrc": "https://image.spreadshirtmedia.com/image-server/v1/products/T210A33PA4301PT17X82Y37D1016283273W16662H24993/views/1,width=550,height=550,appearanceId=33,backgroundColor=F2F2F2,modelId=6287,crop=list/psychology-mens-t-shirt.jpg",
+      "score": 3,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    }
+  ],
+
+
+  "cart": [
+    {
+      "id": "8",
+      "name": "Basic Tee 6-Pack",
+      "timestamp": "2023-11-11",
+      "category_id": 1,
+      "price": 1,
+      "href": "/product",
+      "imgSrc": "https://image.spreadshirtmedia.com/image-server/v1/products/T210A33PA4301PT17X82Y37D1016283273W16662H24993/views/1,width=550,height=550,appearanceId=33,backgroundColor=F2F2F2,modelId=6287,crop=list/psychology-mens-t-shirt.jpg",
+      "score": 3,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Men",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Clothing",
+          "href": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+          "alt": "Two each of gray, white, and black shirts laying flat."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+          "alt": "Model wearing plain black basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+          "alt": "Model wearing plain gray basic tee."
+        },
+        {
+          "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+          "alt": "Model wearing plain white basic tee."
+        }
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "class": "bg-white",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Gray",
+          "class": "bg-gray-200",
+          "selectedClass": "ring-gray-400"
+        },
+        {
+          "name": "Black",
+          "class": "bg-gray-900",
+          "selectedClass": "ring-gray-900"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "XXS",
+          "inStock": false
+        },
+        {
+          "name": "XS",
+          "inStock": true
+        },
+        {
+          "name": "S",
+          "inStock": true
+        },
+        {
+          "name": "M",
+          "inStock": true
+        },
+        {
+          "name": "L",
+          "inStock": true
+        },
+        {
+          "name": "XL",
+          "inStock": true
+        },
+        {
+          "name": "2XL",
+          "inStock": true
+        },
+        {
+          "name": "3XL",
+          "inStock": true
+        }
+      ],
+      "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black' . Need to add an extra pop of color to your outfit? Our white tee has you covered.",
+      "highlights": [
+        "Hand cut and sewn locally",
+        "Dyed with our proprietary colors",
+        "Pre-washed & pre-shrunk",
+        "Ultra-soft 100% cotton"
+      ],
+      "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release."
+    }
+  ]
+}
